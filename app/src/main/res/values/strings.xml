@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TuDu</string>
+    <string-array name="kategoriTugas">
+        <item>Penting Mendesak</item>
+        <item>Penting Tidak Mendesak</item>
+        <item>Tidak Penting Mendesak</item>
+        <item>Tidak Penting Tidak Mendesak</item>
+    </string-array>
+</resources>
